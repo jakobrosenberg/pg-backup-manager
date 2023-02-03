@@ -1,0 +1,4 @@
+node_modules
+.history
+.pg-backups
+pg-backup-manager.json
